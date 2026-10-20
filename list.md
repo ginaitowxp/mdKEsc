@@ -41,3 +41,4 @@
 - [多功能消息队列演示开源参考项目 全套源码附异常捕获修复方案](https://github.com/ginaitowxp/mdKEsc/commit/138bf2fde4a42cb099f2a4b59da8f6f01ef7044a)
 - [垃圾焚烧补贴退坡环保企业寻找多元化营收增长点](https://github.com/ginaitowxp/mdKEsc/commit/20184922afcf1f1c5e3682dc5e227a46345d55d0)
 - [词元资产企业台账建设，提示词数据集资产管理](https://github.com/ginaitowxp/mdKEsc/commit/5fd0d9998d449ffb0ca8d4e878b6ad48a86b9322)
+- [区域之间发展不均衡，各地机会差异十分显著](https://github.com/ginaitowxp/mdKEsc/commit/b04b4fb8ae95fcc18623135f083d2894f1835e4a)
