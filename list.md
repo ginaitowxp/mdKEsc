@@ -111,3 +111,4 @@
 - [模糊测试Fuzz发现漏洞，维护者无暇修复处理](https://github.com/ginaitowxp/mdKEsc/commit/bb87691ca4abf072047c44586acdc1b6b651c5e9)
 - [消费贷信用卡逾期后果逾期之后正确处理方式](https://github.com/ginaitowxp/mdKEsc/commit/76a3b82ec80c32ff3ebac6071ef59b5e72a84ef7)
 - [磷酸铁锂产能过剩锂电材料行业进入激烈竞争阶段](https://github.com/ginaitowxp/mdKEsc/commit/113fa9787953e5754ddefdf79ac33f8c61fa7ec8)
+- [Badge徽章泛滥，Star、CI、版本徽章堆砌README](https://github.com/ginaitowxp/mdKEsc/commit/960c8848a9bb06ed3500fb91ee48fa1b903f2402)
