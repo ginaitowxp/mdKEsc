@@ -81,3 +81,4 @@
 - [产教融合深化落地，企业深度参与职业人才培养](https://github.com/ginaitowxp/mdKEsc/commit/779aefaa397c2e0b169415983576cbc0d71096c4)
 - [github仓库pr评论review导出，提取pr审核评论与审核人状态](https://github.com/ginaitowxp/mdKEsc/commit/695d38bdaaa29f16a7e829060f202081e0d1ee07)
 - [开源 README 提供最小环境快速上手完整案例](https://github.com/ginaitowxp/mdKEsc/commit/29cc445ad937add1ede4d0fd20339e033c9a7b6e)
+- [shell脚本信号捕获模板，捕获sigint sigterm信号做资源清理](https://github.com/ginaitowxp/mdKEsc/commit/2435f8fdad638c65553a886c8150b5d1f8d37979)
