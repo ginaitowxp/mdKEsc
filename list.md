@@ -30,3 +30,4 @@
 - [固收产品热度暴涨，潜藏风险被大众忽视](https://github.com/ginaitowxp/mdKEsc/commit/fd259c2b7c1db94db93b241997f3ead07e2e215c)
 - [开源教程文档增加新手高频踩坑预警提示](https://github.com/ginaitowxp/mdKEsc/commit/8e76b8baa71ed911cfc72665febd9d9cc93e57ce)
 - [全栈正则 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/ginaitowxp/mdKEsc/commit/938bedb4608c65112f136775965350aecaf07de4)
+- [公益性岗位待遇偏低留才现实难题](https://github.com/ginaitowxp/mdKEsc/commit/b5e9615ff933da9e9d5308a32ff719e21aecba07)
