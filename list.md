@@ -12,3 +12,4 @@
 - [GitHub仓库提交记录分页拉取脚本](https://github.com/ginaitowxp/mdKEsc/commit/d0a670aaa8d581f0942398268ecf49977d5e8e32)
 - [存款利率持续走低普通家庭存钱理财该怎么规划](https://github.com/ginaitowxp/mdKEsc/commit/3638807453dce8897b96611f8301fd5a9a01e09b)
 - [极端天气预警老年群体触达短板](https://github.com/ginaitowxp/mdKEsc/commit/68421780b96e971d1a4f924b8d18a47aa6072b89)
+- [GitHub Gitee 同步完成校验页面图片链接完整性](https://github.com/ginaitowxp/mdKEsc/commit/5630779332f2b2c1d97c125424b8ac7e5bc169e9)
