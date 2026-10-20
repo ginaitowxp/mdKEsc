@@ -97,3 +97,4 @@
 - [企业AI资产盘点，模型、数据集、提示词资产化](https://github.com/ginaitowxp/mdKEsc/commit/1bafd488799febfd84bf29b82abc75819ebdd9b6)
 - [算力成本持续下降，普通人使用大模型门槛降低](https://github.com/ginaitowxp/mdKEsc/commit/85b60cf1be1d8d99a4d8efdbb5f8d2e030092a81)
 - [原型模式工程 完整源码对象拷贝原型复制逻辑](https://github.com/ginaitowxp/mdKEsc/commit/bc3ec4c1bbda19badc752bedbe34baa2cd25cb9e)
+- [开源文档站点排查百度蜘蛛抓取失败原因](https://github.com/ginaitowxp/mdKEsc/commit/189f57b882dd24528486fce0d7bb876f7f26a048)
