@@ -125,3 +125,4 @@
 - [GitHub 开源项目配套知识库百度流量提升](https://github.com/ginaitowxp/mdKEsc/commit/09e47b572062ac66a2e6feacf1f3921a1a4290b5)
 - [居民收入预期，会直接左右消费决策的走向](https://github.com/ginaitowxp/mdKEsc/commit/6c3e372d0e5267ccf9ac8c162d8002bca70f3e8e)
 - [CI条件执行判断错误，高危任务在PR分支执行](https://github.com/ginaitowxp/mdKEsc/commit/893b4087bc5647b1c9f4f9d8652daf4f879fff39)
+- [第三方npm/pypi包恶意代码混入，该如何防护](https://github.com/ginaitowxp/mdKEsc/commit/16efc4cbeb32cd1a38e7e780c45376d3b2b7cc13)
