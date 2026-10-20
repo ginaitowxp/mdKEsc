@@ -158,3 +158,4 @@
 - [汽车出口增速边际放缓国产车企海外竞争面临全新挑战与压力](https://github.com/ginaitowxp/mdKEsc/commit/ac95b8ec54e04d408dccd5e125b326a40f67b80c)
 - [开源库主版本号飙升，为了Breaking Change刷大版本](https://github.com/ginaitowxp/mdKEsc/commit/5097f941e232280809a84757f3b5ec263aaf3a04)
 - [音频本地降噪工具，批量降低音频背景杂音干扰](https://github.com/ginaitowxp/mdKEsc/commit/64c6ec0782ddf35415d7a7b314645dc9efa4427b)
+- [数字人民币大规模推广，普通人使用场景变化](https://github.com/ginaitowxp/mdKEsc/commit/f09edbd41d1a8848dd79ee9ceb9a3f1476657395)
