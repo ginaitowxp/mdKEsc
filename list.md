@@ -92,3 +92,4 @@
 - [技术实战开源案例库 可复用源码与快速集成接入文档](https://github.com/ginaitowxp/mdKEsc/commit/212e1633170fc74995a2efd41e5293ec6c7d6010)
 - [pre‑commit钩子仅本地生效，流水线没有强制校验](https://github.com/ginaitowxp/mdKEsc/commit/885f3f9d508b1be35e39a95deca3e6295492c72c)
 - [docker容器批量运维脚本，批量启停导出日志备份容器](https://github.com/ginaitowxp/mdKEsc/commit/2e34ad80a4286ec7c0718ce91e00c4f5dfc1a4ba)
+- [普通人配置黄金实物黄金和黄金基金怎么选](https://github.com/ginaitowxp/mdKEsc/commit/a4696864993330d516136c99a321da9e5c8333f6)
