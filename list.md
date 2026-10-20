@@ -60,3 +60,4 @@
 - [数据资产评估体系落地企业数据资产价值量化实操](https://github.com/ginaitowxp/mdKEsc/commit/a0fff50ab8b13612b0ea206f5fef40965c2f83ed)
 - [github组织saml用户映射导出，导出saml sso用户外部身份映射](https://github.com/ginaitowxp/mdKEsc/commit/0e506cdf1d63da55fe7be94594b7adee4dc189d5)
 - [文件网盘个人私有服务，文件分片上传分享链接权限管控](https://github.com/ginaitowxp/mdKEsc/commit/9de69a07cd86275aee0d125215cc8d0953fbf2fb)
+- [门诊共济持续优化，医保卡家庭共用新规则](https://github.com/ginaitowxp/mdKEsc/commit/d038a8ccaf99552324fb03c628370cf2c3312f8d)
