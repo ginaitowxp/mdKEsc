@@ -134,3 +134,4 @@
 - [websocket 消息广播开源工程 完整源码实现多客户端消息广播](https://github.com/ginaitowxp/mdKEsc/commit/ac7b5422c5e21fadbf345cd9d84bfeefa902acb2)
 - [静态站点全自动部署工具，监听代码变更自动构建发布](https://github.com/ginaitowxp/mdKEsc/commit/7c301696c6639f9a3d6943911364e7f836bdaf7c)
 - [特高压建设加速跨区域输电助力风光消纳难题](https://github.com/ginaitowxp/mdKEsc/commit/578ff442d2d3531cf673dd5936b125072a0bd6a7)
+- [ssl证书信息批量导出，批量读取域名证书信息输出表格](https://github.com/ginaitowxp/mdKEsc/commit/723c0e367826a4e57ddcdf0dca12fcbc5dc6d91d)
