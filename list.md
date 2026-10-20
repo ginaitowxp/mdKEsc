@@ -172,3 +172,4 @@
 - [docker容器环境变量导出，导出容器全部环境变量键值清单](https://github.com/ginaitowxp/mdKEsc/commit/f6c9c064d5172ccb0cd96261353fa436ab4ef469)
 - [港股出现一波反弹，别误把反弹当成反转](https://github.com/ginaitowxp/mdKEsc/commit/376ee1ec6c4a787977fb28edfa421255936983f3)
 - [日志按日期切割开源仓库 完整源码按天自动分割日志文件](https://github.com/ginaitowxp/mdKEsc/commit/a937aec100839a561abda8b31bfe5744c000dbba)
+- [风险分级人机审批，不同业务动作拦截策略](https://github.com/ginaitowxp/mdKEsc/commit/89831037ed3db85e4e2349d989fe1dd7f8030b4f)
