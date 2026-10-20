@@ -57,3 +57,4 @@
 - [多模态扫描PDF解析，复杂图表表格抽取缺陷](https://github.com/ginaitowxp/mdKEsc/commit/2228e4879f2333db57ce7987177eae5dcdc9004d)
 - [中文开源技术笔记百度搜索收录优化方案](https://github.com/ginaitowxp/mdKEsc/commit/79a677b3904822d338dd563ee3c03eba1bd81496)
 - [视频gif高质量生成工具，视频片段转高质量gif动图](https://github.com/ginaitowxp/mdKEsc/commit/03f81da6b8a4f7643f2e0397be08a2b69aa08f8c)
+- [数据资产评估体系落地企业数据资产价值量化实操](https://github.com/ginaitowxp/mdKEsc/commit/a0fff50ab8b13612b0ea206f5fef40965c2f83ed)
