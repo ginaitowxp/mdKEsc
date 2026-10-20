@@ -160,3 +160,4 @@
 - [音频本地降噪工具，批量降低音频背景杂音干扰](https://github.com/ginaitowxp/mdKEsc/commit/64c6ec0782ddf35415d7a7b314645dc9efa4427b)
 - [数字人民币大规模推广，普通人使用场景变化](https://github.com/ginaitowxp/mdKEsc/commit/f09edbd41d1a8848dd79ee9ceb9a3f1476657395)
 - [开源实战解决方案 完整工程源码和落地使用教程](https://github.com/ginaitowxp/mdKEsc/commit/71ff463d3c6078e95ca963320ab3425b3954d7b8)
+- [动力电池材料技术迭代正极负极材料路线竞争加剧](https://github.com/ginaitowxp/mdKEsc/commit/d71006e738890cb1e6416754b41dfe4a4bd67316)
