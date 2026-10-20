@@ -123,3 +123,4 @@
 - [弹性工作制全面推广，工作生活边界模糊](https://github.com/ginaitowxp/mdKEsc/commit/89d5a09e5dd847becaf515446299943280d32150)
 - [气候焦虑社会现象，公众应对气候变化心态](https://github.com/ginaitowxp/mdKEsc/commit/f2a7b0a6bb49302e62c86e9c2d2418d9562ac531)
 - [GitHub 开源项目配套知识库百度流量提升](https://github.com/ginaitowxp/mdKEsc/commit/09e47b572062ac66a2e6feacf1f3921a1a4290b5)
+- [居民收入预期，会直接左右消费决策的走向](https://github.com/ginaitowxp/mdKEsc/commit/6c3e372d0e5267ccf9ac8c162d8002bca70f3e8e)
