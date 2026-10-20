@@ -87,3 +87,4 @@
 - [多字符编码兼容转换开源仓库 完整源码 gbk utf8‑gb2312 互转](https://github.com/ginaitowxp/mdKEsc/commit/d8f62d867e6e4be3d167e70d1059ed4272d59cd9)
 - [GitHub 实战项目源码库 案例配套多环境适配文档](https://github.com/ginaitowxp/mdKEsc/commit/d43749a7ef5d80b4e2a54eee6024fbdfd2bf1f9c)
 - [全栈实战开源工具仓库 源码开放附带测试演示工程案例](https://github.com/ginaitowxp/mdKEsc/commit/fb91d149d55c73d70141e3ca7278c6cf9452a954)
+- [数据库死锁日志解析脚本，解析死锁日志输出可读分析报告](https://github.com/ginaitowxp/mdKEsc/commit/23a43eafe753b539c754e290c3f1038fab0e9c80)
