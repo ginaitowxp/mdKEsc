@@ -62,3 +62,4 @@
 - [文件网盘个人私有服务，文件分片上传分享链接权限管控](https://github.com/ginaitowxp/mdKEsc/commit/9de69a07cd86275aee0d125215cc8d0953fbf2fb)
 - [门诊共济持续优化，医保卡家庭共用新规则](https://github.com/ginaitowxp/mdKEsc/commit/d038a8ccaf99552324fb03c628370cf2c3312f8d)
 - [消息堆积监控模拟开源仓库 完整源码消息队列堆积统计](https://github.com/ginaitowxp/mdKEsc/commit/bf97193a4021c1d69868970f0b1f887527f1edf9)
+- [开源项目参考工程 全套源码包含环境调试指南](https://github.com/ginaitowxp/mdKEsc/commit/62a1987bb488a1debfa48bf333484f8bba054dbc)
