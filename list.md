@@ -197,3 +197,4 @@
 - [开源教程仓库不要通篇英文缺少中文说明](https://github.com/ginaitowxp/mdKEsc/commit/7c828ff249402a3092d461ba336563eaab6b6587)
 - [二手经济热度爆棚，既是机遇也是现实无奈](https://github.com/ginaitowxp/mdKEsc/commit/3a6b1a6dd26a2cfec7c8ac6455dc095c470d2e8e)
 - [PDF图纸AI知识抽取，设备工艺文档结构化](https://github.com/ginaitowxp/mdKEsc/commit/3bece16fdc7e95601c4d1013380cd4cb3de5011a)
+- [百度站长平台 sitemap 文件格式错误快速排查](https://github.com/ginaitowxp/mdKEsc/commit/747b12dc46663c74cbec521d0245681ff51d183c)
