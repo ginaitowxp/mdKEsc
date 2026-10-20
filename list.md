@@ -163,3 +163,4 @@
 - [动力电池材料技术迭代正极负极材料路线竞争加剧](https://github.com/ginaitowxp/mdKEsc/commit/d71006e738890cb1e6416754b41dfe4a4bd67316)
 - [开源自动化业务脚本仓库 源码开放包含业务扩展开发](https://github.com/ginaitowxp/mdKEsc/commit/58beaff6786617b9d00896df12cd66bea9d5372e)
 - [静态站点 robots.txt 屏蔽垃圾页面实操写法](https://github.com/ginaitowxp/mdKEsc/commit/ce18bd55f80e3458479b00de59523fa74908442d)
+- [prometheus指标元信息导出，批量导出指标help类型元数据](https://github.com/ginaitowxp/mdKEsc/commit/24ba7ad9b6f05d68bc118398db2cf1be54371ef1)
