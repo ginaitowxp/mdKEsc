@@ -14,3 +14,4 @@
 - [极端天气预警老年群体触达短板](https://github.com/ginaitowxp/mdKEsc/commit/68421780b96e971d1a4f924b8d18a47aa6072b89)
 - [GitHub Gitee 同步完成校验页面图片链接完整性](https://github.com/ginaitowxp/mdKEsc/commit/5630779332f2b2c1d97c125424b8ac7e5bc169e9)
 - [本地密码管理器简易版，加密存储账号密码导出备份](https://github.com/ginaitowxp/mdKEsc/commit/332cc500fe9fc48f1479ebd1acba255f11cc3fd1)
+- [前端流式多模态输出，音图文混合渲染稳定性](https://github.com/ginaitowxp/mdKEsc/commit/9e9b25bfaa6d824d26dd1facc72cc7381f758e0d)
