@@ -85,3 +85,4 @@
 - [函数调用Function‑call格式异常，LLM输出解析失败](https://github.com/ginaitowxp/mdKEsc/commit/6bd08c97820d5c9ea73e0cae7cea713bb14746f6)
 - [拿来即用正则代码资源库 全套源码配套运行异常处理方案](https://github.com/ginaitowxp/mdKEsc/commit/0f737006f820a5d9df6e23ac38fe746cfe1cc639)
 - [多字符编码兼容转换开源仓库 完整源码 gbk utf8‑gb2312 互转](https://github.com/ginaitowxp/mdKEsc/commit/d8f62d867e6e4be3d167e70d1059ed4272d59cd9)
+- [GitHub 实战项目源码库 案例配套多环境适配文档](https://github.com/ginaitowxp/mdKEsc/commit/d43749a7ef5d80b4e2a54eee6024fbdfd2bf1f9c)
