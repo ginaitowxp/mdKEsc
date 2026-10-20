@@ -147,3 +147,4 @@
 - [券商财富管理深度转型从卖产品转向客户资产配置](https://github.com/ginaitowxp/mdKEsc/commit/78de585b81349a6f6cc1dc7059552e0f8de8ed46)
 - [镜像站点百度收录波动从内容层面找原因](https://github.com/ginaitowxp/mdKEsc/commit/10c210e91166c871e5e0cc07932a2aa8063cafd6)
 - [研发参考示例开源工程 源码资源含多种模拟场景样例](https://github.com/ginaitowxp/mdKEsc/commit/36d49cbe101c98049447ec1d254f7ecd85a29fde)
+- [程序员高效开源工具源码 完整源码搭配多环境部署教程](https://github.com/ginaitowxp/mdKEsc/commit/d9d7287040d43ee70f2a12c105a2f6b0a7da3eb2)
