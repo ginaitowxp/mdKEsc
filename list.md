@@ -26,3 +26,4 @@
 - [创投税收优惠延续硬科技早期投资获得政策扶持](https://github.com/ginaitowxp/mdKEsc/commit/3245c86bb2d497c149d724cbbe91de0995a33f4e)
 - [粮价暗流涌动，普通人不能忽视风险](https://github.com/ginaitowxp/mdKEsc/commit/3ed29e714e9015afcf62bc0132cc9f3843d3b3d3)
 - [prometheus指标标签值统计，统计指标各个标签值出现频次](https://github.com/ginaitowxp/mdKEsc/commit/ea85a067c3e775362ea203c64ec8490a55f3629c)
+- [开发者参考开源项目 源码资源包含二次开发指南](https://github.com/ginaitowxp/mdKEsc/commit/35a94e10d377d37a369b01e9e11ffe78e74a7b67)
