@@ -193,3 +193,4 @@
 - [rtsp流音频转码录制工具，转码rtsp音频保存为mp3文件](https://github.com/ginaitowxp/mdKEsc/commit/9223ccb668f8cbfd79f302f1c87ee1f5dcd18149)
 - [本地base85编解码工具，批量base85编码解码二进制数据](https://github.com/ginaitowxp/mdKEsc/commit/d51af8b0582ef9be98f1166fd66874506648faf0)
 - [批量代理池检测工具，批量验证代理存活过滤无效代理地址](https://github.com/ginaitowxp/mdKEsc/commit/38c95f8b22c07e0bd7ed774fc337658100d8fe58)
+- [外骨骼设备民用推广成本瓶颈](https://github.com/ginaitowxp/mdKEsc/commit/7b8f3fb767dca94739aaf7f8ce2c6e5fac11b924)
