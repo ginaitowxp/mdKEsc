@@ -128,3 +128,4 @@
 - [第三方npm/pypi包恶意代码混入，该如何防护](https://github.com/ginaitowxp/mdKEsc/commit/16efc4cbeb32cd1a38e7e780c45376d3b2b7cc13)
 - [保险负债端逐步改善储蓄型保险产品销售迎来回暖迹象](https://github.com/ginaitowxp/mdKEsc/commit/c042bbd698e31a27259ff7a314c6a27fc2d51983)
 - [仓库迁移导出，Milestone里程碑无法完整导出](https://github.com/ginaitowxp/mdKEsc/commit/62822f41db32e03f49c73374c5e8f4323c36c14f)
+- [目录硬链接检测报告生成，输出目录硬链接文件详细报表](https://github.com/ginaitowxp/mdKEsc/commit/67458585c5b56cbe57a6d231c4a11a0ff5c29f78)
