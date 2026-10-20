@@ -91,3 +91,4 @@
 - [新能源汽车出海增速放缓国产车企海外面临哪些挑战](https://github.com/ginaitowxp/mdKEsc/commit/0301c76af24e5fe60227ad4ad3f3e0de3255e440)
 - [技术实战开源案例库 可复用源码与快速集成接入文档](https://github.com/ginaitowxp/mdKEsc/commit/212e1633170fc74995a2efd41e5293ec6c7d6010)
 - [pre‑commit钩子仅本地生效，流水线没有强制校验](https://github.com/ginaitowxp/mdKEsc/commit/885f3f9d508b1be35e39a95deca3e6295492c72c)
+- [docker容器批量运维脚本，批量启停导出日志备份容器](https://github.com/ginaitowxp/mdKEsc/commit/2e34ad80a4286ec7c0718ce91e00c4f5dfc1a4ba)
