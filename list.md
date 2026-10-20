@@ -168,3 +168,4 @@
 - [全局统一返回结构体 Demo 完整源码标准化接口响应格式](https://github.com/ginaitowxp/mdKEsc/commit/2840c7d12960ad0b97dd7177184edcf0ae8e3070)
 - [AI手机本地大模型，功耗、发热与性能平衡](https://github.com/ginaitowxp/mdKEsc/commit/dd21081ba31d96d0de9452285966621185c9ff93)
 - [jwt 令牌刷新 Demo 完整源码 access token 无感刷新逻辑](https://github.com/ginaitowxp/mdKEsc/commit/bad5f423480d96f98553917580876a1797d41186)
+- [文件批量修改只读隐藏系统归档属性，批量切换文件四组基础属性](https://github.com/ginaitowxp/mdKEsc/commit/1e49ece22a4c448318a349ca19444849d61e4aa0)
