@@ -184,3 +184,4 @@
 - [差分隐私技术，数据分析场景下保护个体隐私](https://github.com/ginaitowxp/mdKEsc/commit/7616f3d1af06797d1448b1806d9a0aff4f74e9ed)
 - [高复用开源脚本工具集 分步部署文档与高频报错汇总](https://github.com/ginaitowxp/mdKEsc/commit/1f063ed80ed0e1a51a1b21b29876c3db9c71ba25)
 - [民间投资信心修复，需要稳定可预期制度环境](https://github.com/ginaitowxp/mdKEsc/commit/7c800fe3975b6a758f013f4c64fdcbbe58898fa5)
+- [简易 web 接口 Demo 开源仓库 完整源码包含接口开发完整示例](https://github.com/ginaitowxp/mdKEsc/commit/9237eff2e139fec62c7ed853e4f383205b5eaa5f)
