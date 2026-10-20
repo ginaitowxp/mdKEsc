@@ -117,3 +117,4 @@
 - [GitHub Pages 自定义域名 TTL 与解析设置](https://github.com/ginaitowxp/mdKEsc/commit/5de02c17e07bf64b7e4fba634a05e8d2772b2bc9)
 - [大宗交易监管升级严防利用大宗渠道违规减持股份](https://github.com/ginaitowxp/mdKEsc/commit/282bd2f9c572016f78ad08ad1c35727d89ae84b8)
 - [技术脚本开源合集 开源源码搭配落地部署教程](https://github.com/ginaitowxp/mdKEsc/commit/929051816fcc79cbda512ad11f7529f4e3ba7990)
+- [视频变速不变调批量脚本，批量调整视频播放速率保留音调](https://github.com/ginaitowxp/mdKEsc/commit/e2cee20cfe639f0499e538db41d04635d88b3ee7)
