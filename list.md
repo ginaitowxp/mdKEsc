@@ -72,3 +72,4 @@
 - [pptx幻灯片批量删除，按页码批量删除ppt指定幻灯片](https://github.com/ginaitowxp/mdKEsc/commit/1495454be8c91c72e63269352524a622db8dff41)
 - [GitHub 开箱即用开源项目合集 完整源码与集成接入实操文档](https://github.com/ginaitowxp/mdKEsc/commit/3502189cbfd270d606962702f84c05c2f0e50a96)
 - [银行净息差持续收窄银行业经营压力与转型出路解析](https://github.com/ginaitowxp/mdKEsc/commit/48f3493b4431000d37724d962d629f060151e06f)
+- [图片文字水印添加源码 完整源码批量给图片加水印](https://github.com/ginaitowxp/mdKEsc/commit/7f53cebd51a1f84473dc313f1c65906f8701212c)
