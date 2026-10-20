@@ -65,3 +65,4 @@
 - [开源项目参考工程 全套源码包含环境调试指南](https://github.com/ginaitowxp/mdKEsc/commit/62a1987bb488a1debfa48bf333484f8bba054dbc)
 - [物业费捆绑停水停电，物业这种做法属于违规](https://github.com/ginaitowxp/mdKEsc/commit/a776081e43474f080a539f65eacbb21f724682f9)
 - [代码改动风险简易评估脚本，比对变更给出风险检查提示](https://github.com/ginaitowxp/mdKEsc/commit/02035ea9a2ec4b1d306d8eac01a663a539e8507e)
+- [双仓自动同步 GitHub Gitee 保障爬虫访问](https://github.com/ginaitowxp/mdKEsc/commit/7ec01fd9540ca1dff93de5ebe557317351386fed)
