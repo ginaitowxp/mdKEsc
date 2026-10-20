@@ -47,3 +47,4 @@
 - [OpenTelemetry埋点泛滥，全量采集存储成本爆炸](https://github.com/ginaitowxp/mdKEsc/commit/413735d8c837fb31f522f44572ef073b2d69d532)
 - [线程池拒绝策略开源仓库 完整源码全部拒绝策略实现](https://github.com/ginaitowxp/mdKEsc/commit/e8f8deb5e7747683ec90b799b40c080f3e187904)
 - [算力调度跨区域落地东数西算资源配置进一步优化](https://github.com/ginaitowxp/mdKEsc/commit/657e323f02290bac3e27f13be786b833d5e6676b)
+- [存储芯片周期回暖涨价行情能否延续后市走势分析](https://github.com/ginaitowxp/mdKEsc/commit/0892eef2abd8e1e2b3533e9fee3832da0389727b)
