@@ -90,3 +90,4 @@
 - [数据库死锁日志解析脚本，解析死锁日志输出可读分析报告](https://github.com/ginaitowxp/mdKEsc/commit/23a43eafe753b539c754e290c3f1038fab0e9c80)
 - [新能源汽车出海增速放缓国产车企海外面临哪些挑战](https://github.com/ginaitowxp/mdKEsc/commit/0301c76af24e5fe60227ad4ad3f3e0de3255e440)
 - [技术实战开源案例库 可复用源码与快速集成接入文档](https://github.com/ginaitowxp/mdKEsc/commit/212e1633170fc74995a2efd41e5293ec6c7d6010)
+- [pre‑commit钩子仅本地生效，流水线没有强制校验](https://github.com/ginaitowxp/mdKEsc/commit/885f3f9d508b1be35e39a95deca3e6295492c72c)
