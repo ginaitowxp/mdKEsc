@@ -75,3 +75,4 @@
 - [图片文字水印添加源码 完整源码批量给图片加水印](https://github.com/ginaitowxp/mdKEsc/commit/7f53cebd51a1f84473dc313f1c65906f8701212c)
 - [简易服务注册中心模拟源码 完整源码服务注册注销发现逻辑](https://github.com/ginaitowxp/mdKEsc/commit/e79e6335a6e4db396d53aaf98874389d2a137242)
 - [外贸行业景气度，高度受海外经济环境影响](https://github.com/ginaitowxp/mdKEsc/commit/9c960171ea2c2bc163b0ac5edbf4c04a624bb419)
+- [长鑫科技上市之后市场表现，国产存储龙头受到资本关注](https://github.com/ginaitowxp/mdKEsc/commit/51d4ebe3b9753e5bee896af6402b032af07941b1)
