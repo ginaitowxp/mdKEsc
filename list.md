@@ -142,3 +142,4 @@
 - [限流计数器算法开源仓库 完整源码固定窗口限流完整示例](https://github.com/ginaitowxp/mdKEsc/commit/2549bc7de7896a5fb9c3242ef1b62fc58a4275c6)
 - [城市数字孪生海量实体渲染，浏览器端性能瓶颈](https://github.com/ginaitowxp/mdKEsc/commit/97c141a709957eec192a6d33ea942218acd4400c)
 - [CSV大数据分片处理工具，超大csv切割过滤避免内存溢出](https://github.com/ginaitowxp/mdKEsc/commit/33ccd0ef4fd26dff0a39e2bd13572c3ae49c6d57)
+- [测试环境快速部署开源源码库 源码资源配套环境初始化脚本](https://github.com/ginaitowxp/mdKEsc/commit/0b8ff882b6d4a89bf4a385aced395c68781a70a1)
