@@ -20,3 +20,4 @@
 - [静态镜像站点处理重复 URL 防止百度过滤](https://github.com/ginaitowxp/mdKEsc/commit/61bab0e9be72378fd69cc57eb385f71cd9f69668)
 - [IaC安全扫描，模板中隐藏的权限泄露风险](https://github.com/ginaitowxp/mdKEsc/commit/961bfb4975b863a845e59b0e5aaf4555645c2c50)
 - [二叉搜索树增删改查源码 完整源码二叉搜索树完整实现](https://github.com/ginaitowxp/mdKEsc/commit/36ac69e3db0c75cf603cb146d78c3f5c3f42fd4a)
+- [动态GPU分片虚拟化，细粒度算力切分生产坑点](https://github.com/ginaitowxp/mdKEsc/commit/8ea612df1deb43b026827e9b43ffbb83c301b959)
