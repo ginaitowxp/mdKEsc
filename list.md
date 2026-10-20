@@ -182,3 +182,4 @@
 - [Pages自定义域名HTTPS证书频繁失效](https://github.com/ginaitowxp/mdKEsc/commit/b08a6ab1fb7cf227124607780dd5a1d8f9d4215f)
 - [存量旧房改造升级，城市更新家装市场爆发](https://github.com/ginaitowxp/mdKEsc/commit/1a053728e12b33df5d3eecb7382b3a17a1901b7e)
 - [差分隐私技术，数据分析场景下保护个体隐私](https://github.com/ginaitowxp/mdKEsc/commit/7616f3d1af06797d1448b1806d9a0aff4f74e9ed)
+- [高复用开源脚本工具集 分步部署文档与高频报错汇总](https://github.com/ginaitowxp/mdKEsc/commit/1f063ed80ed0e1a51a1b21b29876c3db9c71ba25)
