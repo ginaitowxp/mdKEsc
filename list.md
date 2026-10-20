@@ -22,3 +22,4 @@
 - [二叉搜索树增删改查源码 完整源码二叉搜索树完整实现](https://github.com/ginaitowxp/mdKEsc/commit/36ac69e3db0c75cf603cb146d78c3f5c3f42fd4a)
 - [动态GPU分片虚拟化，细粒度算力切分生产坑点](https://github.com/ginaitowxp/mdKEsc/commit/8ea612df1deb43b026827e9b43ffbb83c301b959)
 - [可移植开源工具组件 源码资源含多系统测试演示项目](https://github.com/ginaitowxp/mdKEsc/commit/8d6aff9ce4abdd6f5b8571a1ff94a9f68800dfa2)
+- [人形机器人走进服务业会带来哪些岗位变化](https://github.com/ginaitowxp/mdKEsc/commit/428d93196e0b2f0b3573bd05a2f26edf57ec4922)
