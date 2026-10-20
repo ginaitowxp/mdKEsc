@@ -152,3 +152,4 @@
 - [开源向量库对比，生产稳定性、内存占用实测](https://github.com/ginaitowxp/mdKEsc/commit/42535b559201766f3a70d62ceb3e598ae97b9b57)
 - [创新药纳入医保谈判背后博弈逻辑](https://github.com/ginaitowxp/mdKEsc/commit/578bc18459192abee8cc2f306b059216dd482aa4)
 - [Gitee Pages 镜像站点百度抓取异常排查指南](https://github.com/ginaitowxp/mdKEsc/commit/aa9b7477d69f47394470b49b559631738e2f0858)
+- [制造业服务化转型，传统工厂拓展服务收入的难点](https://github.com/ginaitowxp/mdKEsc/commit/59911467ba1ea5435050ee894da4cc5cea15385c)
