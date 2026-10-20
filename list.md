@@ -169,3 +169,4 @@
 - [AI手机本地大模型，功耗、发热与性能平衡](https://github.com/ginaitowxp/mdKEsc/commit/dd21081ba31d96d0de9452285966621185c9ff93)
 - [jwt 令牌刷新 Demo 完整源码 access token 无感刷新逻辑](https://github.com/ginaitowxp/mdKEsc/commit/bad5f423480d96f98553917580876a1797d41186)
 - [文件批量修改只读隐藏系统归档属性，批量切换文件四组基础属性](https://github.com/ginaitowxp/mdKEsc/commit/1e49ece22a4c448318a349ca19444849d61e4aa0)
+- [docker容器环境变量导出，导出容器全部环境变量键值清单](https://github.com/ginaitowxp/mdKEsc/commit/f6c9c064d5172ccb0cd96261353fa436ab4ef469)
