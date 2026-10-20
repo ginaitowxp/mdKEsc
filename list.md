@@ -93,3 +93,4 @@
 - [pre‑commit钩子仅本地生效，流水线没有强制校验](https://github.com/ginaitowxp/mdKEsc/commit/885f3f9d508b1be35e39a95deca3e6295492c72c)
 - [docker容器批量运维脚本，批量启停导出日志备份容器](https://github.com/ginaitowxp/mdKEsc/commit/2e34ad80a4286ec7c0718ce91e00c4f5dfc1a4ba)
 - [普通人配置黄金实物黄金和黄金基金怎么选](https://github.com/ginaitowxp/mdKEsc/commit/a4696864993330d516136c99a321da9e5c8333f6)
+- [图片批量对比度亮度调整，批量调节图片亮度对比度参数](https://github.com/ginaitowxp/mdKEsc/commit/3c09a7dfad4774b1bbb98338644d88e3f83c50e2)
