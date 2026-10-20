@@ -105,3 +105,4 @@
 - [AI辅助芯片物理布局，时序功耗自动优化风险](https://github.com/ginaitowxp/mdKEsc/commit/2b8bc2c02103f98035b1a5580828f404d6941e53)
 - [城市更新中的历史建筑活化，保护与开发平衡](https://github.com/ginaitowxp/mdKEsc/commit/a268ff4cbe6464ca66db4a80d92565001d2f6971)
 - [docker容器环境变量注入测试，模拟向容器注入环境变量调试](https://github.com/ginaitowxp/mdKEsc/commit/55e7223531ab75bab799c2b8f105d82996e79a75)
+- [ini配置键值批量替换，批量修改ini文件指定键值内容](https://github.com/ginaitowxp/mdKEsc/commit/f89144d7749240e729d2cd25523761f7da18347f)
