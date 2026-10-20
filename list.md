@@ -151,3 +151,4 @@
 - [GitHub 实战开发开源源码 可运行源码与参数调优指南](https://github.com/ginaitowxp/mdKEsc/commit/9e9c1387a66f47c33461d1f3bd81e9933ca0ede7)
 - [开源向量库对比，生产稳定性、内存占用实测](https://github.com/ginaitowxp/mdKEsc/commit/42535b559201766f3a70d62ceb3e598ae97b9b57)
 - [创新药纳入医保谈判背后博弈逻辑](https://github.com/ginaitowxp/mdKEsc/commit/578bc18459192abee8cc2f306b059216dd482aa4)
+- [Gitee Pages 镜像站点百度抓取异常排查指南](https://github.com/ginaitowxp/mdKEsc/commit/aa9b7477d69f47394470b49b559631738e2f0858)
