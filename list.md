@@ -171,3 +171,4 @@
 - [文件批量修改只读隐藏系统归档属性，批量切换文件四组基础属性](https://github.com/ginaitowxp/mdKEsc/commit/1e49ece22a4c448318a349ca19444849d61e4aa0)
 - [docker容器环境变量导出，导出容器全部环境变量键值清单](https://github.com/ginaitowxp/mdKEsc/commit/f6c9c064d5172ccb0cd96261353fa436ab4ef469)
 - [港股出现一波反弹，别误把反弹当成反转](https://github.com/ginaitowxp/mdKEsc/commit/376ee1ec6c4a787977fb28edfa421255936983f3)
+- [日志按日期切割开源仓库 完整源码按天自动分割日志文件](https://github.com/ginaitowxp/mdKEsc/commit/a937aec100839a561abda8b31bfe5744c000dbba)
