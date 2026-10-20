@@ -32,3 +32,4 @@
 - [全栈正则 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/ginaitowxp/mdKEsc/commit/938bedb4608c65112f136775965350aecaf07de4)
 - [公益性岗位待遇偏低留才现实难题](https://github.com/ginaitowxp/mdKEsc/commit/b5e9615ff933da9e9d5308a32ff719e21aecba07)
 - [医疗服务价格公开透明化推进难点](https://github.com/ginaitowxp/mdKEsc/commit/20991edbb85fae8bf3a88ab54bf057806766d4e2)
+- [雪花算法 ID 生成开源 Demo 完整源码分布式唯一 id 生成器](https://github.com/ginaitowxp/mdKEsc/commit/fa38984af6e369e1d30adc6e9143c260972d5838)
