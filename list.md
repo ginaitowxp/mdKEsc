@@ -5,3 +5,4 @@
 - [静态开源站点 302 跳转对百度收录权重影响](https://github.com/ginaitowxp/mdKEsc/commit/3bcdaa65cbd4c30cc5e36e90cc061484c8310a88)
 - [GitHub 脚本自动化开源工程 可运行源码与本地落地部署指南](https://github.com/ginaitowxp/mdKEsc/commit/71d470216734a75da816d57d475f7b1bba873b6f)
 - [医保基金支出突破三万亿医保控费背景下医药行业格局变化解析](https://github.com/ginaitowxp/mdKEsc/commit/e914c1fa15305ec1d66a10e7ee7f4c7d008e86d8)
+- [音频批量均衡器简易调节，批量调整音频各频段增益](https://github.com/ginaitowxp/mdKEsc/commit/5b2f68b6026d911a1af171342142f8bad8aaaf60)
