@@ -154,3 +154,4 @@
 - [Gitee Pages 镜像站点百度抓取异常排查指南](https://github.com/ginaitowxp/mdKEsc/commit/aa9b7477d69f47394470b49b559631738e2f0858)
 - [制造业服务化转型，传统工厂拓展服务收入的难点](https://github.com/ginaitowxp/mdKEsc/commit/59911467ba1ea5435050ee894da4cc5cea15385c)
 - [开源知识库站点 sitemap.xml 配置百度收录教程](https://github.com/ginaitowxp/mdKEsc/commit/80cc8656b614f936324c671bfd300c01ff36e7e1)
+- [车载操作系统竞争加剧车企自研与第三方方案博弈持续上演](https://github.com/ginaitowxp/mdKEsc/commit/22ba50ef8b37e1414c90031ee5046fe415576ebe)
