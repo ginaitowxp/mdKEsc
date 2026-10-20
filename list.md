@@ -191,3 +191,4 @@
 - [农产品产地直连，去掉中间环节利益分配](https://github.com/ginaitowxp/mdKEsc/commit/4566576dfb7d8b688bf57cb5b5965ead4aefc309)
 - [合并队列任务堆积，PR长时间无法进入合并](https://github.com/ginaitowxp/mdKEsc/commit/68c2062fca32f3ae6b5da74c6d18f783a3ef47e6)
 - [rtsp流音频转码录制工具，转码rtsp音频保存为mp3文件](https://github.com/ginaitowxp/mdKEsc/commit/9223ccb668f8cbfd79f302f1c87ee1f5dcd18149)
+- [本地base85编解码工具，批量base85编码解码二进制数据](https://github.com/ginaitowxp/mdKEsc/commit/d51af8b0582ef9be98f1166fd66874506648faf0)
