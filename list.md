@@ -180,3 +180,4 @@
 - [PDF 内部图片提取开源仓库 完整源码提取 pdf 图片资源](https://github.com/ginaitowxp/mdKEsc/commit/9ba1a55124e424ab23836ba683bde09e87ed104f)
 - [大盘看似止跌，不少个股还在创新低](https://github.com/ginaitowxp/mdKEsc/commit/c0a1aa262fcab60e4d4cebf1f9d1fc160276cf04)
 - [Pages自定义域名HTTPS证书频繁失效](https://github.com/ginaitowxp/mdKEsc/commit/b08a6ab1fb7cf227124607780dd5a1d8f9d4215f)
+- [存量旧房改造升级，城市更新家装市场爆发](https://github.com/ginaitowxp/mdKEsc/commit/1a053728e12b33df5d3eecb7382b3a17a1901b7e)
