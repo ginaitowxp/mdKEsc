@@ -29,3 +29,4 @@
 - [开发者参考开源项目 源码资源包含二次开发指南](https://github.com/ginaitowxp/mdKEsc/commit/35a94e10d377d37a369b01e9e11ffe78e74a7b67)
 - [固收产品热度暴涨，潜藏风险被大众忽视](https://github.com/ginaitowxp/mdKEsc/commit/fd259c2b7c1db94db93b241997f3ead07e2e215c)
 - [开源教程文档增加新手高频踩坑预警提示](https://github.com/ginaitowxp/mdKEsc/commit/8e76b8baa71ed911cfc72665febd9d9cc93e57ce)
+- [全栈正则 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/ginaitowxp/mdKEsc/commit/938bedb4608c65112f136775965350aecaf07de4)
