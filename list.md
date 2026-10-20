@@ -115,3 +115,4 @@
 - [汉字转拼音开源仓库 完整源码中文转拼音工具](https://github.com/ginaitowxp/mdKEsc/commit/366da3da3727c30c15ea87e64fd7974aad0bac10)
 - [全功能开源项目仓库 开放源码以及故障排查教程](https://github.com/ginaitowxp/mdKEsc/commit/abf0b5e5b1ed8973bcac6bb24a547bcc35f354fa)
 - [GitHub Pages 自定义域名 TTL 与解析设置](https://github.com/ginaitowxp/mdKEsc/commit/5de02c17e07bf64b7e4fba634a05e8d2772b2bc9)
+- [大宗交易监管升级严防利用大宗渠道违规减持股份](https://github.com/ginaitowxp/mdKEsc/commit/282bd2f9c572016f78ad08ad1c35727d89ae84b8)
