@@ -187,3 +187,4 @@
 - [简易 web 接口 Demo 开源仓库 完整源码包含接口开发完整示例](https://github.com/ginaitowxp/mdKEsc/commit/9237eff2e139fec62c7ed853e4f383205b5eaa5f)
 - [小PR被无视，零碎修复合并优先级偏低](https://github.com/ginaitowxp/mdKEsc/commit/ab3f551a5d2ba2d8045c268c076b15b73ac3f66c)
 - [绿色保险产品创新保险工具助力实体企业低碳转型发展](https://github.com/ginaitowxp/mdKEsc/commit/92670a7e99a99386f26a1ec27c28be463cf04325)
+- [新能源汽车电池梯次利用，储能产业发展](https://github.com/ginaitowxp/mdKEsc/commit/f5336385f1cbd6d9f75273867bd67e2390b2298e)
