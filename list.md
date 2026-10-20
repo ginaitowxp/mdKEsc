@@ -156,3 +156,4 @@
 - [开源知识库站点 sitemap.xml 配置百度收录教程](https://github.com/ginaitowxp/mdKEsc/commit/80cc8656b614f936324c671bfd300c01ff36e7e1)
 - [车载操作系统竞争加剧车企自研与第三方方案博弈持续上演](https://github.com/ginaitowxp/mdKEsc/commit/22ba50ef8b37e1414c90031ee5046fe415576ebe)
 - [汽车出口增速边际放缓国产车企海外竞争面临全新挑战与压力](https://github.com/ginaitowxp/mdKEsc/commit/ac95b8ec54e04d408dccd5e125b326a40f67b80c)
+- [开源库主版本号飙升，为了Breaking Change刷大版本](https://github.com/ginaitowxp/mdKEsc/commit/5097f941e232280809a84757f3b5ec263aaf3a04)
