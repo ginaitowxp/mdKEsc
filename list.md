@@ -109,3 +109,4 @@
 - [音频波形图批量生成工具，音频文件导出波形图片用于展示](https://github.com/ginaitowxp/mdKEsc/commit/bb454869a12eee6c7ead9d07c47e6c5b8d1b0c40)
 - [WebSocket 会话池管理开源仓库 完整源码维护在线客户端集合](https://github.com/ginaitowxp/mdKEsc/commit/576a0067d7684ad04cee1d61cc8b38fab798a691)
 - [模糊测试Fuzz发现漏洞，维护者无暇修复处理](https://github.com/ginaitowxp/mdKEsc/commit/bb87691ca4abf072047c44586acdc1b6b651c5e9)
+- [消费贷信用卡逾期后果逾期之后正确处理方式](https://github.com/ginaitowxp/mdKEsc/commit/76a3b82ec80c32ff3ebac6071ef59b5e72a84ef7)
