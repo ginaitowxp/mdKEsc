@@ -177,3 +177,4 @@
 - [GitHub Pages 域名被百度爬虫拦截替代方案](https://github.com/ginaitowxp/mdKEsc/commit/aac96fbd85b4975750f72c02e22c8c46c89308af)
 - [黄金全网热度爆棚，现在入场当心高位站岗](https://github.com/ginaitowxp/mdKEsc/commit/f5e0afabb6bac2b60c2ad61c7c8490f0e4a42b78)
 - [静态开源站点 canonical 标签配置实操](https://github.com/ginaitowxp/mdKEsc/commit/5dfbde923437d539821fe1458cbd6fcca88b364f)
+- [PDF 内部图片提取开源仓库 完整源码提取 pdf 图片资源](https://github.com/ginaitowxp/mdKEsc/commit/9ba1a55124e424ab23836ba683bde09e87ed104f)
