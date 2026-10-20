@@ -74,3 +74,4 @@
 - [银行净息差持续收窄银行业经营压力与转型出路解析](https://github.com/ginaitowxp/mdKEsc/commit/48f3493b4431000d37724d962d629f060151e06f)
 - [图片文字水印添加源码 完整源码批量给图片加水印](https://github.com/ginaitowxp/mdKEsc/commit/7f53cebd51a1f84473dc313f1c65906f8701212c)
 - [简易服务注册中心模拟源码 完整源码服务注册注销发现逻辑](https://github.com/ginaitowxp/mdKEsc/commit/e79e6335a6e4db396d53aaf98874389d2a137242)
+- [外贸行业景气度，高度受海外经济环境影响](https://github.com/ginaitowxp/mdKEsc/commit/9c960171ea2c2bc163b0ac5edbf4c04a624bb419)
