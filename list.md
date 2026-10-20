@@ -161,3 +161,4 @@
 - [数字人民币大规模推广，普通人使用场景变化](https://github.com/ginaitowxp/mdKEsc/commit/f09edbd41d1a8848dd79ee9ceb9a3f1476657395)
 - [开源实战解决方案 完整工程源码和落地使用教程](https://github.com/ginaitowxp/mdKEsc/commit/71ff463d3c6078e95ca963320ab3425b3954d7b8)
 - [动力电池材料技术迭代正极负极材料路线竞争加剧](https://github.com/ginaitowxp/mdKEsc/commit/d71006e738890cb1e6416754b41dfe4a4bd67316)
+- [开源自动化业务脚本仓库 源码开放包含业务扩展开发](https://github.com/ginaitowxp/mdKEsc/commit/58beaff6786617b9d00896df12cd66bea9d5372e)
