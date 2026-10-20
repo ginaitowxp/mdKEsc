@@ -83,3 +83,4 @@
 - [开源 README 提供最小环境快速上手完整案例](https://github.com/ginaitowxp/mdKEsc/commit/29cc445ad937add1ede4d0fd20339e033c9a7b6e)
 - [shell脚本信号捕获模板，捕获sigint sigterm信号做资源清理](https://github.com/ginaitowxp/mdKEsc/commit/2435f8fdad638c65553a886c8150b5d1f8d37979)
 - [函数调用Function‑call格式异常，LLM输出解析失败](https://github.com/ginaitowxp/mdKEsc/commit/6bd08c97820d5c9ea73e0cae7cea713bb14746f6)
+- [拿来即用正则代码资源库 全套源码配套运行异常处理方案](https://github.com/ginaitowxp/mdKEsc/commit/0f737006f820a5d9df6e23ac38fe746cfe1cc639)
