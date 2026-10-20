@@ -70,3 +70,4 @@
 - [调味品行业成本回落原材料下行带动企业盈利修复空间显现](https://github.com/ginaitowxp/mdKEsc/commit/c159bb7ba7eb7e6b4bf632de87b167f52f700aa0)
 - [开源参考脚本合集 源码开放包含落地集成指南](https://github.com/ginaitowxp/mdKEsc/commit/6e8593aa464a5c23890e451f0da016bf7bdfadde)
 - [pptx幻灯片批量删除，按页码批量删除ppt指定幻灯片](https://github.com/ginaitowxp/mdKEsc/commit/1495454be8c91c72e63269352524a622db8dff41)
+- [GitHub 开箱即用开源项目合集 完整源码与集成接入实操文档](https://github.com/ginaitowxp/mdKEsc/commit/3502189cbfd270d606962702f84c05c2f0e50a96)
