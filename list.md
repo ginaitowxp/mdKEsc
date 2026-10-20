@@ -51,3 +51,4 @@
 - [mysql事件调度器批量导出，导出数据库定时事件定义](https://github.com/ginaitowxp/mdKEsc/commit/3a4d31e9a410d6d718b8ff50032856624922ff1b)
 - [eVTOL飞行汽车集群AI调度，空域冲突实时规避](https://github.com/ginaitowxp/mdKEsc/commit/6ab6e2e727a9d429fc41ad543786b224f919d9b7)
 - [GitHub Pages SPA单页应用，刷新404配置难题](https://github.com/ginaitowxp/mdKEsc/commit/37887777a195cd72373ea8b4003b29afdc53c55e)
+- [开源业务问题解决方案仓库 完整源码附多版本兼容适配](https://github.com/ginaitowxp/mdKEsc/commit/3b9196e0ef80e254d27d3f69a3b1b8679568ee59)
