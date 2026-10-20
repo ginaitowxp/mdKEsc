@@ -113,3 +113,4 @@
 - [磷酸铁锂产能过剩锂电材料行业进入激烈竞争阶段](https://github.com/ginaitowxp/mdKEsc/commit/113fa9787953e5754ddefdf79ac33f8c61fa7ec8)
 - [Badge徽章泛滥，Star、CI、版本徽章堆砌README](https://github.com/ginaitowxp/mdKEsc/commit/960c8848a9bb06ed3500fb91ee48fa1b903f2402)
 - [汉字转拼音开源仓库 完整源码中文转拼音工具](https://github.com/ginaitowxp/mdKEsc/commit/366da3da3727c30c15ea87e64fd7974aad0bac10)
+- [全功能开源项目仓库 开放源码以及故障排查教程](https://github.com/ginaitowxp/mdKEsc/commit/abf0b5e5b1ed8973bcac6bb24a547bcc35f354fa)
