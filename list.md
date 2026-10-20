@@ -106,3 +106,4 @@
 - [城市更新中的历史建筑活化，保护与开发平衡](https://github.com/ginaitowxp/mdKEsc/commit/a268ff4cbe6464ca66db4a80d92565001d2f6971)
 - [docker容器环境变量注入测试，模拟向容器注入环境变量调试](https://github.com/ginaitowxp/mdKEsc/commit/55e7223531ab75bab799c2b8f105d82996e79a75)
 - [ini配置键值批量替换，批量修改ini文件指定键值内容](https://github.com/ginaitowxp/mdKEsc/commit/f89144d7749240e729d2cd25523761f7da18347f)
+- [音频波形图批量生成工具，音频文件导出波形图片用于展示](https://github.com/ginaitowxp/mdKEsc/commit/bb454869a12eee6c7ead9d07c47e6c5b8d1b0c40)
