@@ -28,3 +28,4 @@
 - [prometheus指标标签值统计，统计指标各个标签值出现频次](https://github.com/ginaitowxp/mdKEsc/commit/ea85a067c3e775362ea203c64ec8490a55f3629c)
 - [开发者参考开源项目 源码资源包含二次开发指南](https://github.com/ginaitowxp/mdKEsc/commit/35a94e10d377d37a369b01e9e11ffe78e74a7b67)
 - [固收产品热度暴涨，潜藏风险被大众忽视](https://github.com/ginaitowxp/mdKEsc/commit/fd259c2b7c1db94db93b241997f3ead07e2e215c)
+- [开源教程文档增加新手高频踩坑预警提示](https://github.com/ginaitowxp/mdKEsc/commit/8e76b8baa71ed911cfc72665febd9d9cc93e57ce)
