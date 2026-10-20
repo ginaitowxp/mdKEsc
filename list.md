@@ -119,3 +119,4 @@
 - [技术脚本开源合集 开源源码搭配落地部署教程](https://github.com/ginaitowxp/mdKEsc/commit/929051816fcc79cbda512ad11f7529f4e3ba7990)
 - [视频变速不变调批量脚本，批量调整视频播放速率保留音调](https://github.com/ginaitowxp/mdKEsc/commit/e2cee20cfe639f0499e538db41d04635d88b3ee7)
 - [开源实战解决方案源码库 完整实现包含功能测试指南](https://github.com/ginaitowxp/mdKEsc/commit/f8b1e6b9d52c6cd05385869131e0c049f59c6426)
+- [正则场景开源实战合集 完整工程附带环境分步搭建教程](https://github.com/ginaitowxp/mdKEsc/commit/5bbd4f8a73ac5fe3fa556697f81cb41fc9b26d64)
