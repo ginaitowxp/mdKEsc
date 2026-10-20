@@ -38,3 +38,4 @@
 - [文件硬链接批量查找工具，查找目录下所有硬链接文件](https://github.com/ginaitowxp/mdKEsc/commit/328f99f4a600569364843c649aa36df8b312b0ce)
 - [git blame行粒度提交过滤，过滤blame结果排除指定提交id](https://github.com/ginaitowxp/mdKEsc/commit/75cc9f5200661e3a978d296a71456aaf0fd63e65)
 - [百度推送 API 调用失败常见原因排查](https://github.com/ginaitowxp/mdKEsc/commit/420859174727a9dd5bdd7811e5add94876720323)
+- [多功能消息队列演示开源参考项目 全套源码附异常捕获修复方案](https://github.com/ginaitowxp/mdKEsc/commit/138bf2fde4a42cb099f2a4b59da8f6f01ef7044a)
