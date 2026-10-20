@@ -6,3 +6,4 @@
 - [GitHub 脚本自动化开源工程 可运行源码与本地落地部署指南](https://github.com/ginaitowxp/mdKEsc/commit/71d470216734a75da816d57d475f7b1bba873b6f)
 - [医保基金支出突破三万亿医保控费背景下医药行业格局变化解析](https://github.com/ginaitowxp/mdKEsc/commit/e914c1fa15305ec1d66a10e7ee7f4c7d008e86d8)
 - [音频批量均衡器简易调节，批量调整音频各频段增益](https://github.com/ginaitowxp/mdKEsc/commit/5b2f68b6026d911a1af171342142f8bad8aaaf60)
+- [git提交范围文件变更导出，导出两个commit之间变更文件列表](https://github.com/ginaitowxp/mdKEsc/commit/32ee9e3065a2e005bb7e8b1e760fe0ed2c17970c)
