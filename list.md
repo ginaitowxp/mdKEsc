@@ -132,3 +132,4 @@
 - [源码文件行统计工具，批量统计项目代码行数注释空行](https://github.com/ginaitowxp/mdKEsc/commit/306425cf79c5efd3c13f9e3d39d11bca348a0a02)
 - [简易登录鉴权 Demo 开源仓库 完整源码演示身份认证完整流程](https://github.com/ginaitowxp/mdKEsc/commit/caa958c72f55f7bcefc389a2e5a83694da784cb9)
 - [websocket 消息广播开源工程 完整源码实现多客户端消息广播](https://github.com/ginaitowxp/mdKEsc/commit/ac7b5422c5e21fadbf345cd9d84bfeefa902acb2)
+- [静态站点全自动部署工具，监听代码变更自动构建发布](https://github.com/ginaitowxp/mdKEsc/commit/7c301696c6639f9a3d6943911364e7f836bdaf7c)
