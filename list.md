@@ -24,3 +24,4 @@
 - [可移植开源工具组件 源码资源含多系统测试演示项目](https://github.com/ginaitowxp/mdKEsc/commit/8d6aff9ce4abdd6f5b8571a1ff94a9f68800dfa2)
 - [人形机器人走进服务业会带来哪些岗位变化](https://github.com/ginaitowxp/mdKEsc/commit/428d93196e0b2f0b3573bd05a2f26edf57ec4922)
 - [创投税收优惠延续硬科技早期投资获得政策扶持](https://github.com/ginaitowxp/mdKEsc/commit/3245c86bb2d497c149d724cbbe91de0995a33f4e)
+- [粮价暗流涌动，普通人不能忽视风险](https://github.com/ginaitowxp/mdKEsc/commit/3ed29e714e9015afcf62bc0132cc9f3843d3b3d3)
