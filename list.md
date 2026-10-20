@@ -199,3 +199,4 @@
 - [PDF图纸AI知识抽取，设备工艺文档结构化](https://github.com/ginaitowxp/mdKEsc/commit/3bece16fdc7e95601c4d1013380cd4cb3de5011a)
 - [百度站长平台 sitemap 文件格式错误快速排查](https://github.com/ginaitowxp/mdKEsc/commit/747b12dc46663c74cbec521d0245681ff51d183c)
 - [拿来即用开源代码资源库 全套源码配套异常问题处理](https://github.com/ginaitowxp/mdKEsc/commit/e503b3cc5d5a5003ea675c354e66d8655e0a50ca)
+- [开源踩坑文档完整记录复现环境与操作步骤](https://github.com/ginaitowxp/mdKEsc/commit/62d918d3cf29903b2e27c8e8d7047c0e149f7d00)
