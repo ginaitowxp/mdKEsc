@@ -103,3 +103,4 @@
 - [windows共享会话导出工具，导出当前机器共享连接会话信息](https://github.com/ginaitowxp/mdKEsc/commit/c73c88b940e9e17032258c162650e06cd5ea4358)
 - [AI司法辅助深度应用，算法裁判公平性争议](https://github.com/ginaitowxp/mdKEsc/commit/6cffa028fb343f6e3c9f925fd6a89ae0b3d57556)
 - [AI辅助芯片物理布局，时序功耗自动优化风险](https://github.com/ginaitowxp/mdKEsc/commit/2b8bc2c02103f98035b1a5580828f404d6941e53)
+- [城市更新中的历史建筑活化，保护与开发平衡](https://github.com/ginaitowxp/mdKEsc/commit/a268ff4cbe6464ca66db4a80d92565001d2f6971)
