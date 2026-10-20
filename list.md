@@ -164,3 +164,4 @@
 - [开源自动化业务脚本仓库 源码开放包含业务扩展开发](https://github.com/ginaitowxp/mdKEsc/commit/58beaff6786617b9d00896df12cd66bea9d5372e)
 - [静态站点 robots.txt 屏蔽垃圾页面实操写法](https://github.com/ginaitowxp/mdKEsc/commit/ce18bd55f80e3458479b00de59523fa74908442d)
 - [prometheus指标元信息导出，批量导出指标help类型元数据](https://github.com/ginaitowxp/mdKEsc/commit/24ba7ad9b6f05d68bc118398db2cf1be54371ef1)
+- [HTTP 请求封装工具开源 Demo 完整源码统一封装 get post 请求](https://github.com/ginaitowxp/mdKEsc/commit/d20a23277fe4a49bb195cc69cdec3a4fcc8dfe60)
