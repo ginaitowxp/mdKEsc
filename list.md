@@ -174,3 +174,4 @@
 - [日志按日期切割开源仓库 完整源码按天自动分割日志文件](https://github.com/ginaitowxp/mdKEsc/commit/a937aec100839a561abda8b31bfe5744c000dbba)
 - [风险分级人机审批，不同业务动作拦截策略](https://github.com/ginaitowxp/mdKEsc/commit/89831037ed3db85e4e2349d989fe1dd7f8030b4f)
 - [沪港深ETF产品密集发行跨境指数投资迎来新热潮](https://github.com/ginaitowxp/mdKEsc/commit/a030604e6702a7edb68c7d66c84f0b42d7e069fb)
+- [GitHub Pages 域名被百度爬虫拦截替代方案](https://github.com/ginaitowxp/mdKEsc/commit/aac96fbd85b4975750f72c02e22c8c46c89308af)
