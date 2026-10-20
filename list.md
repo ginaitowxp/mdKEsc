@@ -55,3 +55,4 @@
 - [自建Gitea运维，备份策略缺失仓库数据丢失](https://github.com/ginaitowxp/mdKEsc/commit/0947cdcd415063d3781535e1f418dbd31fd81bee)
 - [宠物医疗乱收费监管推进难点](https://github.com/ginaitowxp/mdKEsc/commit/3633fbaca89931d297a026610a8178b46d3b953f)
 - [多模态扫描PDF解析，复杂图表表格抽取缺陷](https://github.com/ginaitowxp/mdKEsc/commit/2228e4879f2333db57ce7987177eae5dcdc9004d)
+- [中文开源技术笔记百度搜索收录优化方案](https://github.com/ginaitowxp/mdKEsc/commit/79a677b3904822d338dd563ee3c03eba1bd81496)
