@@ -43,3 +43,4 @@
 - [词元资产企业台账建设，提示词数据集资产管理](https://github.com/ginaitowxp/mdKEsc/commit/5fd0d9998d449ffb0ca8d4e878b6ad48a86b9322)
 - [区域之间发展不均衡，各地机会差异十分显著](https://github.com/ginaitowxp/mdKEsc/commit/b04b4fb8ae95fcc18623135f083d2894f1835e4a)
 - [以为拿着现金就安全，购买力正在无声缩水](https://github.com/ginaitowxp/mdKEsc/commit/55186ece6d20cd19b542469dea0496fa2f713352)
+- [遗赠扶养协议容易踩哪些法律坑](https://github.com/ginaitowxp/mdKEsc/commit/5e07456c2767171b6f157c9ffccc06af80feace8)
