@@ -34,3 +34,4 @@
 - [医疗服务价格公开透明化推进难点](https://github.com/ginaitowxp/mdKEsc/commit/20991edbb85fae8bf3a88ab54bf057806766d4e2)
 - [雪花算法 ID 生成开源 Demo 完整源码分布式唯一 id 生成器](https://github.com/ginaitowxp/mdKEsc/commit/fa38984af6e369e1d30adc6e9143c260972d5838)
 - [成人终身学习公共平台建设，免费学习资源](https://github.com/ginaitowxp/mdKEsc/commit/344ae9667d373e3af8e6eaa94b463096ad3eefcf)
+- [国产替代风口，很多赛道只是炒作](https://github.com/ginaitowxp/mdKEsc/commit/e816f438c08eaad9f96dc4f86dea158b2ec0323b)
