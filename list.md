@@ -16,3 +16,4 @@
 - [本地密码管理器简易版，加密存储账号密码导出备份](https://github.com/ginaitowxp/mdKEsc/commit/332cc500fe9fc48f1479ebd1acba255f11cc3fd1)
 - [前端流式多模态输出，音图文混合渲染稳定性](https://github.com/ginaitowxp/mdKEsc/commit/9e9b25bfaa6d824d26dd1facc72cc7381f758e0d)
 - [二手经济蓬勃发展，是繁荣也是现实无奈](https://github.com/ginaitowxp/mdKEsc/commit/687c6c81214b5c2f48b1ea9c152b83bd151d978b)
+- [人民币汇率反复震荡，不必过度放大短期波动](https://github.com/ginaitowxp/mdKEsc/commit/0394e12bda70ba3779273564a7ae02238c7e06bf)
