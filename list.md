@@ -49,3 +49,4 @@
 - [算力调度跨区域落地东数西算资源配置进一步优化](https://github.com/ginaitowxp/mdKEsc/commit/657e323f02290bac3e27f13be786b833d5e6676b)
 - [存储芯片周期回暖涨价行情能否延续后市走势分析](https://github.com/ginaitowxp/mdKEsc/commit/0892eef2abd8e1e2b3533e9fee3832da0389727b)
 - [mysql事件调度器批量导出，导出数据库定时事件定义](https://github.com/ginaitowxp/mdKEsc/commit/3a4d31e9a410d6d718b8ff50032856624922ff1b)
+- [eVTOL飞行汽车集群AI调度，空域冲突实时规避](https://github.com/ginaitowxp/mdKEsc/commit/6ab6e2e727a9d429fc41ad543786b224f919d9b7)
