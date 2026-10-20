@@ -18,3 +18,4 @@
 - [二手经济蓬勃发展，是繁荣也是现实无奈](https://github.com/ginaitowxp/mdKEsc/commit/687c6c81214b5c2f48b1ea9c152b83bd151d978b)
 - [人民币汇率反复震荡，不必过度放大短期波动](https://github.com/ginaitowxp/mdKEsc/commit/0394e12bda70ba3779273564a7ae02238c7e06bf)
 - [静态镜像站点处理重复 URL 防止百度过滤](https://github.com/ginaitowxp/mdKEsc/commit/61bab0e9be72378fd69cc57eb385f71cd9f69668)
+- [IaC安全扫描，模板中隐藏的权限泄露风险](https://github.com/ginaitowxp/mdKEsc/commit/961bfb4975b863a845e59b0e5aaf4555645c2c50)
