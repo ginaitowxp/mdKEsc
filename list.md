@@ -89,3 +89,4 @@
 - [全栈实战开源工具仓库 源码开放附带测试演示工程案例](https://github.com/ginaitowxp/mdKEsc/commit/fb91d149d55c73d70141e3ca7278c6cf9452a954)
 - [数据库死锁日志解析脚本，解析死锁日志输出可读分析报告](https://github.com/ginaitowxp/mdKEsc/commit/23a43eafe753b539c754e290c3f1038fab0e9c80)
 - [新能源汽车出海增速放缓国产车企海外面临哪些挑战](https://github.com/ginaitowxp/mdKEsc/commit/0301c76af24e5fe60227ad4ad3f3e0de3255e440)
+- [技术实战开源案例库 可复用源码与快速集成接入文档](https://github.com/ginaitowxp/mdKEsc/commit/212e1633170fc74995a2efd41e5293ec6c7d6010)
