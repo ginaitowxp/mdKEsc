@@ -54,3 +54,4 @@
 - [开源业务问题解决方案仓库 完整源码附多版本兼容适配](https://github.com/ginaitowxp/mdKEsc/commit/3b9196e0ef80e254d27d3f69a3b1b8679568ee59)
 - [自建Gitea运维，备份策略缺失仓库数据丢失](https://github.com/ginaitowxp/mdKEsc/commit/0947cdcd415063d3781535e1f418dbd31fd81bee)
 - [宠物医疗乱收费监管推进难点](https://github.com/ginaitowxp/mdKEsc/commit/3633fbaca89931d297a026610a8178b46d3b953f)
+- [多模态扫描PDF解析，复杂图表表格抽取缺陷](https://github.com/ginaitowxp/mdKEsc/commit/2228e4879f2333db57ce7987177eae5dcdc9004d)
