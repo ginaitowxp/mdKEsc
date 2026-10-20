@@ -126,3 +126,4 @@
 - [居民收入预期，会直接左右消费决策的走向](https://github.com/ginaitowxp/mdKEsc/commit/6c3e372d0e5267ccf9ac8c162d8002bca70f3e8e)
 - [CI条件执行判断错误，高危任务在PR分支执行](https://github.com/ginaitowxp/mdKEsc/commit/893b4087bc5647b1c9f4f9d8652daf4f879fff39)
 - [第三方npm/pypi包恶意代码混入，该如何防护](https://github.com/ginaitowxp/mdKEsc/commit/16efc4cbeb32cd1a38e7e780c45376d3b2b7cc13)
+- [保险负债端逐步改善储蓄型保险产品销售迎来回暖迹象](https://github.com/ginaitowxp/mdKEsc/commit/c042bbd698e31a27259ff7a314c6a27fc2d51983)
